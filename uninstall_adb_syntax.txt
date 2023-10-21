@@ -1,0 +1,6 @@
+Open cmd in windows
+Goto this location in cmd: C:\Users\[user]\AppData\Local\Android\sdk\platform-tools
+Type this command: adb uninstall com.example.application.name(Package name)
+Proceed if you see command success
+Close and reopen your VS window
+Run your flutter project again
